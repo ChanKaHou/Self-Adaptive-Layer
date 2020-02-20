@@ -5,7 +5,7 @@ for research article "Self-Adaptive Layer: An Application of Function Approximat
 Version 1.0
 (c) Copyright 2019 Ka-Hou Chan <chankahou (at) ipm.edu.mo>
 
-The Clustering program source code is free software: you can redistribute
+The Python program source code is free software: you can redistribute
 it and/or modify it under the terms of the GNU General Public License
 as published by the Free Software Foundation, either version 3 of the License,
 or (at your option) any later version.
