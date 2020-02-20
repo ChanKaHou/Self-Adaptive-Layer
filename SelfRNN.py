@@ -1,5 +1,5 @@
 '''
-Clustering program source code
+Python program source code
 for research article "Self-Adaptive Layer: An Application of Function Approximation Theory to Enhance Convergence Efficiency in Neural Networks"
 
 Version 1.0
